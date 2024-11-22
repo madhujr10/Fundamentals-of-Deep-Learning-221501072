@@ -1,6 +1,6 @@
-##  FUNDAMENTALS OF DEEP LEARNING Report (AI19541)
+# FUNDAMENTALS OF DEEP LEARNING Report (AI19541)
 
-# Lip Buddy - Visual Speech Recognition App
+## Lip Buddy - Visual Speech Recognition App
 
 - **Name:** Madhumitha M
 - **Roll no:** 221501072
